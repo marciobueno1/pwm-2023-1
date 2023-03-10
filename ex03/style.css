@@ -1,0 +1,13 @@
+table {
+  width: 300px;
+  border: dashed;
+}
+
+.tblDados {
+  background-color: antiquewhite;
+  border: solid;
+}
+
+.grid {
+  background-color: lightblue;
+}
